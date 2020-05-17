@@ -1,5 +1,7 @@
 Beta Version.
 ## Dependencies:
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeviprasad97%2Fredisgraph-cplusplus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeviprasad97%2Fredisgraph-cplusplus?ref=badge_shield)
+
 *   Hiredis
 *   C++ 11
 ##### Hiredis:
@@ -28,3 +30,7 @@ This will install Hiredis to */usr/local/include/hiredis/*
  *        CONTEXTED API  
  *        PROCEDURE test  
  
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeviprasad97%2Fredisgraph-cplusplus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeviprasad97%2Fredisgraph-cplusplus?ref=badge_large)
